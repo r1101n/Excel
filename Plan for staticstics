@@ -1,0 +1,65 @@
+Day 1: Statistics and Probability Basics
+Morning: Build Statistical Intuition
+Learn descriptive statistics:
+Mean, median, mode, variance, standard deviation
+Frequency distributions and histograms
+Understand probability:
+Basic probability rules
+Conditional probability and Bayes' theorem
+Key distributions: Normal, Binomial, and Poisson
+Afternoon: Inferential Statistics
+Learn sampling methods and the Central Limit Theorem.
+Understand hypothesis testing:
+p-values, Type I & Type II errors
+Perform basic tests (z-test, t-test)
+Explore correlation and regression:
+Linear regression (simple and multiple)
+R-squared and model assumptions
+Evening: Hands-On Practice
+Use Python or R to practice:
+Visualizing data with libraries like matplotlib, seaborn, or ggplot2
+Running simple statistical tests using scipy.stats or statsmodels
+Day 2: Machine Learning Basics
+Morning: Introduction to Machine Learning
+Learn supervised learning:
+Linear Regression and Logistic Regression
+Decision Trees and Random Forests
+Understand unsupervised learning:
+Clustering (K-Means, Hierarchical Clustering)
+Afternoon: Key Machine Learning Concepts
+Learn about:
+Train-test split
+Cross-validation
+Overfitting and underfitting
+Study evaluation metrics:
+Classification: Accuracy, Precision, Recall, F1-score
+Regression: Mean Squared Error, R-squared
+Evening: Hands-On Practice
+Build simple ML models using scikit-learn or caret:
+Train and evaluate a linear regression model.
+Perform classification using logistic regression.
+Visualize results using Python/R.
+Day 3: Data Wrangling, Visualization, and Deployment
+Morning: Data Wrangling
+Learn to clean and preprocess data:
+Handling missing values
+Encoding categorical variables
+Scaling and normalization
+Work with libraries like pandas (Python) or dplyr (R).
+Afternoon: Data Visualization
+Create impactful visualizations:
+Explore matplotlib, seaborn, or ggplot2
+Learn to design dashboards using tools like Power BI or Tableau
+Focus on storytelling with data.
+Evening: Deploy a Mini Project
+Choose a simple dataset (e.g., Kaggle’s Titanic dataset).
+Build an end-to-end pipeline:
+Data cleaning and exploration
+Model building and evaluation
+Visualize insights in a Jupyter Notebook or R Markdown.
+Optionally, deploy the model using Flask, Streamlit, or Shiny.
+Key Tips:
+Focus on practice: Learning happens faster when you apply concepts.
+Use ready resources: Utilize platforms like Kaggle, Google Colab, or RStudio for real-world datasets and coding environments.
+Be consistent: While this roadmap is an intense crash course, follow up with sustained learning over time to truly master data science.
+By the end of Day 3, you’ll have a strong foundation and a practical project to showcase your understanding.
